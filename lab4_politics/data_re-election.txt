@@ -1,0 +1,1399 @@
+﻿{
+    "Convocation 1-6 re-election": [
+        {
+            "Name": "Нигматулин Ерлан Зайруллаевич",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Абайдильдин Талгатбек Жамшитович",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Алтынбаев Мухтар Капашевич",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Ахметов Рашит Сайранович",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Бижанов Ахан Хусаинович",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Ищанов Кайрат Кыдрбаевич",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Сагиндыков Елеусин Наурызбаевич",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Токаев Касым-Жомарт Кемелевич",
+            "Gender": "Male",
+            "Re-election": "4"
+        },
+        {
+            "Name": "Кекилбаев Абиш",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Бейсенбаев Аскар Асанович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Касымов Гани Есенгельдинович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Абыкаев Нуртай Абыкаевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Башмаков Анатолий Афанасьевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Джалмагамбетова Светлана Жакияновна",
+            "Gender": "Female",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Жумабаев Ермек Жианшинович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Кубайчук Юрий Алексеевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Рахманбердиев Орынбай",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Турегельдинов Жумабек Сулейменович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Адырбеков Икрам Адырбекович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Айтаханов Куаныш Айтаханулы",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Акылбай Серик Байсеитулы",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Астаев Ертаргын Какимбекович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Бактиярулы Мурат",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Бортник Михаил Михайлович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Енсегенов Сарсенбай Курманулы",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Ергалиев Жабал Ергалиевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Кузеков Асхат Сайпиевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Мукаев Ербулат Рахметович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Нургалиев Женис Мирасович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Плотников Сергей Викторович",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Полторабатько Людмила Григорьевна",
+            "Gender": "Female",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Редкокашин Владимир Николаевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Чельпеков Бактыбай Акбердыевич",
+            "Gender": "Male",
+            "Re-election": "3"
+        },
+        {
+            "Name": "Амергужин Хамит Айдарулы",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бакир Абдижалел Кошкарович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Веснин Виктор Николаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Егоров Виктор Николаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ережепов Кайролла Жеткизгенович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Жуйриктаева Мария Беспаевна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Землянов Валерьян Янович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Кадырова Зауре Жусуповна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Келемсеит Ермек Абильмажинович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Кемел Мырзагельды",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Копей Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Омаров Шарип Омарович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Оспанов Марат Турдыбекович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Сабден Оразалы Сабденович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Трошихин Михаил Васильевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Турлыханов Даулет Болатович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Унгарсынова Фариза Унгарсыновна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Щербинин Николай Иванович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Аман Евгений Иосифович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ахметов Кабдыгали Николаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Аяганов Серик Акпенович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Байгелди Омирбек",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Булекпаев Аманжол Куанышевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бурлаков Леонид Николаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Галимов Фарит Хабибрахманович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Гусинский Александр Владимирович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Джолдасбаева Нурлыгаим Чалдановна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Досманбетов Бакберген Сарсенович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Жексембинов Жомарткали Баясилович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Иманкулов Идельбай Исламович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Исабеков Шамсат Жаксылыкович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Какишев Жандарбек Шамильевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Копеев Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Меркель Иоган Давидович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Нургалиев Жакай Жубаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Нурманбетов Нусупжан Нурманбетович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Сапиев Оналбек",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Сарсенкулов Жансеит Сарсекулович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Симамбаев Тасбай Кабашевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Султанов Куаныш Султанович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Туткушев Бексултан Серикпаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Утебаев Мусиралы Смаилович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Абдыкаримов Оралбай",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Амиров Иран Амирович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ахметов Адиль Курманжанович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Баймаханов Кожахмет Мадибаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Валиев Хусаин Хасенович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ескендиров Самат Сапарбекович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Есим Гарифолла",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Жылкышиев Болат Абжапарулы",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Мами Кайрат Абдразакович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Мухамеджанов Толеген Мухамеджанович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Омаров Кайсар Оспанович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Савченко Александр Георгиевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Судьин Александр Сергеевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Сулейменов Нурлан Ильясович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Турлашов Лаззат Махатович",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Цхай Юрий Андреевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Айтимова Бырганым Сариевна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Акимов Рашит Каиржанович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бекназаров Бектас Абдыханович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бектаев Али Абдикаримович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бектурганов Серик Чингисович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Билялов Серик Султангазинович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Бобров Владимир Яковлевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Громов Сергей Николаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Джаксыбеков Серик Рыскельдинович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Еламанов Бекмырза Кайыпулы",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ершов Сергей Михайлович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Жолдасбаев Муратбай Сматаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Киинов Ляззат Кетебаевич",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Ким Георгий Владимирович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Кубенов Манат Шарапиденович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Куставлетов Дулат Рашитович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Мукашев Тулеубек Тулеуович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Мусаханов Ансар Турсунканович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Оразалин Нурлан Мыркасымович",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Перепечина Ольга Валентиновна",
+            "Gender": "Female",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Тагимов Марат Мурзагалиевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Тусупбеков Рашид Толеутаевич",
+            "Gender": "Male",
+            "Re-election": "2"
+        },
+        {
+            "Name": "Амержанова Айтжан Мухамединовна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Артыгалиев Мади Адыевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Артюшенко Леонид Аркадьевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ахметов Ашимжан Сулейменович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ахметов Мырзабек Смагулович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ашляев Серик Сопыжанович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Балапанов Зейнелькабден Таукенович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Баталов Анвар Касымович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бекбосунов Аргынбай",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бельгибаев Есенбай Есенжолович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Богатырёв Игорь Анатольевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бредихин Сергей Николаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Булегенов Ергали Булегенович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Выскубов Владимир Матвеевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Головков Михаил Николаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Громов Валерий Леонидович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Джолдасбеков Умирбек Арисланович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Елекеев Ирак Касымович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Жумабекова Рысты Маговьяновна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Жумагалиев Атлаш Адильмуханович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ильченко Таисия Александровна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Калиев Наубат Калиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Каптиль Николай Степанович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Копберген Абдиманап Бапанулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Котелин Владимир Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Куаныш Толеген Шангитбайулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Куанышбаева Роза Сактагановна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Курмашев Куаныш Курмашевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Лаврентьев Александр Иосифович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Лекер Куандык Ахметулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Меренков Владимир Петрович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Молдахметов Марат Турысбаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Муканов Сериккали Кубашевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Наурызбай Жумагали Жукеевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нуркадилов Заманбек Калабаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Осипов Василий Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Пригодин Виктор Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Рамазанов Аманбек Мырзахметович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Силкина Татьяна Егоровна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Султанбаев Кудайберген Тауекелович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сытов Юрий Николаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Третьяков Валентин Александрович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Туребаев Шахизат Хамитович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Турысов Каратай",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шварцкопф Альберт Васильевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шер Раиса Петровна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шлычков Валерий Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шокарев Владимир Ильич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ыскак Аким Абдыхаймулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Айталы Амангельды Абдрахманович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Абдильдин Серикболсын Абдильдаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Алибаев Серикбай Бариевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Алимжанов Исахан Молдаханович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Алпысбеков Куаныш Махмутович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Асанов Владимир Байтениязович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Байназаров Галым Байназарович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бисетаев Серикбай Жумабекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Даулбаев Асхат Кайзуллаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Дворецкий Владимир Яковлевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Дрожжин Сергей Васильевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Дьяченко Сергей Александрович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Елеубаев Узаккали Биалаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Жалыбин Сергей Михайлович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Иванов Виктор Михайлович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кабанбаев Аскар",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Калдыгулова Сания Мусаевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Калиев Гани Алимович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Калиулы Жекен",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Караманов Узакбай",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Квятковская Татьяна Григорьевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кенжебек Омиргали",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Конакбаев Серик Керимбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Косарев Владислав Борисович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Космамбетов Тулебек",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Котович Валерий Николаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Купенова Бакыт Каиркешевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кушкалиев Хаким Дуйсешович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Лавриненко Юрий Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мадинов Ромин Ризович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Макалкин Валентин Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Макашев Зейнула Мухамединович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Максимонько Василий Владимирович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Милютин Александр Александрович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мужчиль Татьяна Евгеньевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мукашев Рахмет Желдыбаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Муртаза Шерхан",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Рамазанов Еркин Амануллинович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Рахметов Ержан Оразович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Рустемов Нурбах Турарович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сагдиев Махтай Рамазанович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сарманов Ерхали Сатыбалдыулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сарпеков Рамазан Кумарбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сарсенов Нурдаулет Жумагулович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сисинбаев Тагир Мусаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сорокин Борис Владимирович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сыздыков Тито Уахапович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Такенов Болат Долдаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Тиникеев Мухтар Бакирович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Тохтасынов Толен Мухамедиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Тулеметов Куанышбек",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Турысов Каратай Турысович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Туякбай Жармахан Айтбайулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Тшанов Амалбек Козыбакович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Уразалинов Шаймерден Абильмажинович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Черкашина Алимпиада Ивановна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Чиркалин Иван Федорович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шаекин Рауан Михайлович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шалабаев Хайрат Габдулович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Абдильдин Жабайхан",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Алесин Владимир Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Батталова Зауреш Кабылбековна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Есимханов Сагындык Ольмесекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кайсаров Уалихан Абишевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кист Виктор Эдуардович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кужагалиев Аскар Урынбасарович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Машани Абылхан",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сыздыков Амангельды Хамзинович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Имашев Берик Мажитович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мухамеджанов Бауржан Алимович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кулагин Сергей Витальевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нугербеков Серик Нугербекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Абдикеров Рыскали Калиакбарович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Абдиров Нурлан Мажитович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Адильбеков Даурен Зекенович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Айтпаева Сауле Муханбедиановна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Алдашев Суиндик Тасеменович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Альназарова Акмарал Шарипбаевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Ашимбаев Маулен Сагатханулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бекенов Нурлан Жексембаевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Бекназаров Нурлан Кудиярович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Булавкина Ольга Александровна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Волков Владимир Васильевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Джумагазиев Мухтар Сабирович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Дюсембаев Гумар Ислямович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Дюсембинов Султан Мырзабекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Жумагулов Бакытжан Турсынович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Жусип Нурторе Байтелесович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Калетаев Дархан Аманович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Каниев Бауыржан Нуралиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Капбарова Айгуль Жарылкасыновна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Карплюк Сергей Алексеевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кожамжаров Кайрат Пернешович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кул-Мухаммед Мухтар Абрарулы",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Куришбаев Ахылбек Кажигулович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Куртаев Алимжан Сейтжанович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Кылышбаев Нурлан Наурызович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Лукин Андрей Иванович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Лукпанов Сагындык Есенгалиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Макежанов Султанбек Алмасбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мамытбеков Едил Куламкадырович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мусабаев Талгат Амангельдиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Мусин Дуйсенгазы Магауянович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Назарбаева Дарига Нурсултановна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нукетаева Динар Жусупалиевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нуралиев Абдалы Токбергенович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нуржигитова Дана Омирбаевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нурсипатов Нуржан Нурланбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Нухулы Алтынбек",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Орынбеков Бекболат Серикбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Рысбекова Ляззат Туякбаевна",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сатыбалды Дархан Амангельдиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сафинов Канатбек Бейсенбекович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Сулеймен Ляззат Жанылыскызы",
+            "Gender": "Female",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Султанов Ерик Хамзинович",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Турегалиев Нариман Турегалиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        },
+        {
+            "Name": "Шакиров Аскар Оразалиевич",
+            "Gender": "Male",
+            "Re-election": "1"
+        }
+    ]
+}

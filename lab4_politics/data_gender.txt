@@ -1,0 +1,2602 @@
+﻿{
+    "Convocation 1-6 in KZ": [
+        {
+            "Name": "Амергужин Хамит Айдарулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Амержанова Айтжан Мухамединовна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Артыгалиев Мади Адыевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Артюшенко Леонид Аркадьевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ахметов Ашимжан Сулейменович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ахметов Мырзабек Смагулович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ашляев Серик Сопыжанович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Бакир Абдижалел Кошкарович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Балапанов Зейнелькабден Таукенович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Баталов Анвар Касымович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Бекбосунов Аргынбай",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Бельгибаев Есенбай Есенжолович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Богатырёв Игорь Анатольевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Бредихин Сергей Николаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Булегенов Ергали Булегенович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Веснин Виктор Николаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Выскубов Владимир Матвеевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Головков Михаил Николаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Громов Валерий Леонидович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Джолдасбеков Умирбек Арисланович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Егоров Виктор Николаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Елекеев Ирак Касымович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ережепов Кайролла Жеткизгенович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Жуйриктаева Мария Беспаевна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Жумабекова Рысты Маговьяновна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Жумагалиев Атлаш Адильмуханович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Землянов Валерьян Янович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ильченко Таисия Александровна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Кадырова Зауре Жусуповна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Калиев Наубат Калиевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Каптиль Николай Степанович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Кекилбаев Абиш",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Келемсеит Ермек Абильмажинович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Кемел Мырзагельды",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Копберген Абдиманап Бапанулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Копей Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Котелин Владимир Иванович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Куаныш Толеген Шангитбайулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Куанышбаева Роза Сактагановна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Курмашев Куаныш Курмашевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Лаврентьев Александр Иосифович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Лекер Куандык Ахметулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Меренков Владимир Петрович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Молдахметов Марат Турысбаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Муканов Сериккали Кубашевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Наурызбай Жумагали Жукеевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Нуркадилов Заманбек Калабаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Омаров Шарип Омарович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Осипов Василий Иванович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Оспанов Марат Турдыбекович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Пригодин Виктор Иванович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Рамазанов Аманбек Мырзахметович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Сабден Оразалы Сабденович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Силкина Татьяна Егоровна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Султанбаев Кудайберген Тауекелович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Сытов Юрий Николаевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Третьяков Валентин Александрович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Трошихин Михаил Васильевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Туребаев Шахизат Хамитович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Турлыханов Даулет Болатович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Турысов Каратай",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Унгарсынова Фариза Унгарсыновна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Шварцкопф Альберт Васильевич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Шер Раиса Петровна",
+            "Gender": "Female",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Шлычков Валерий Иванович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Шокарев Владимир Ильич",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Щербинин Николай Иванович",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Ыскак Аким Абдыхаймулы",
+            "Gender": "Male",
+            "Convocation": "1",
+            "Year": "1996"
+        },
+        {
+            "Name": "Айталы Амангельды Абдрахманович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Абдильдин Серикболсын Абдильдаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Алибаев Серикбай Бариевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Алимжанов Исахан Молдаханович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Алпысбеков Куаныш Махмутович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Амергужин Хамит Айдарулы",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Асанов Владимир Байтениязович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Байназаров Галым Байназарович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Бакир Абдижалел Кошкарович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Бейсенбаев Аскар Асанович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Бисетаев Серикбай Жумабекович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Веснин Виктор Николаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Даулбаев Асхат Кайзуллаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Дворецкий Владимир Яковлевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Дрожжин Сергей Васильевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Дьяченко Сергей Александрович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Егоров Виктор Николаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Елеубаев Узаккали Биалаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Ережепов Кайролла Жеткизгенович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Жалыбин Сергей Михайлович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Жуйриктаева Мария Беспаевна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Землянов Валерьян Янович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Иванов Виктор Михайлович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Кабанбаев Аскар",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Кадырова Зауре Жусуповна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Калдыгулова Сания Мусаевна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Калиев Гани Алимович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Калиулы Жекен",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Караманов Узакбай",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Касымов Гани Есенгельдинович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Квятковская Татьяна Григорьевна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Келемсеит Ермек Абильмажинович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Кемел Мырзагельды",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Кенжебек Омиргали",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Конакбаев Серик Керимбекович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Копей Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Косарев Владислав Борисович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Космамбетов Тулебек",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Котович Валерий Николаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Купенова Бакыт Каиркешевна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Кушкалиев Хаким Дуйсешович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Лавриненко Юрий Иванович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Мадинов Ромин Ризович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Макалкин Валентин Иванович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Макашев Зейнула Мухамединович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Максимонько Василий Владимирович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Милютин Александр Александрович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Мужчиль Татьяна Евгеньевна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Мукашев Рахмет Желдыбаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Муртаза Шерхан",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Нигматулин Ерлан Зайруллаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Омаров Шарип Омарович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Оспанов Марат Турдыбекович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Рамазанов Еркин Амануллинович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Рахметов Ержан Оразович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Рустемов Нурбах Турарович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сабден Оразалы Сабденович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сагдиев Махтай Рамазанович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сарманов Ерхали Сатыбалдыулы",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сарпеков Рамазан Кумарбекович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сарсенов Нурдаулет Жумагулович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сисинбаев Тагир Мусаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сорокин Борис Владимирович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Сыздыков Тито Уахапович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Такенов Болат Долдаевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Тиникеев Мухтар Бакирович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Тохтасынов Толен Мухамедиевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Трошихин Михаил Васильевич",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Тулеметов Куанышбек",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Турлыханов Даулет Болатович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Турысов Каратай Турысович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Туякбай Жармахан Айтбайулы",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Тшанов Амалбек Козыбакович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Унгарсынова Фариза Унгарсыновна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Уразалинов Шаймерден Абильмажинович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Черкашина Алимпиада Ивановна",
+            "Gender": "Female",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Чиркалин Иван Федорович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Шаекин Рауан Михайлович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Шалабаев Хайрат Габдулович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Щербинин Николай Иванович",
+            "Gender": "Male",
+            "Convocation": "2",
+            "Year": "1999"
+        },
+        {
+            "Name": "Абайдильдин Талгатбек Жамшитович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Абдильдин Жабайхан",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Абыкаев Нуртай Абыкаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Алесин Владимир Иванович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Алтынбаев Мухтар Капашевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Аман Евгений Иосифович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Ахметов Кабдыгали Николаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Ахметов Рашит Сайранович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Аяганов Серик Акпенович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Байгелди Омирбек",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Батталова Зауреш Кабылбековна",
+            "Gender": "Female",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Башмаков Анатолий Афанасьевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Бижанов Ахан Хусаинович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Булекпаев Аманжол Куанышевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Бурлаков Леонид Николаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Галимов Фарит Хабибрахманович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Гусинский Александр Владимирович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Джалмагамбетова Светлана Жакияновна",
+            "Gender": "Female",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Джолдасбаева Нурлыгаим Чалдановна",
+            "Gender": "Female",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Досманбетов Бакберген Сарсенович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Есимханов Сагындык Ольмесекович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Жексембинов Жомарткали Баясилович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Жумабаев Ермек Жианшинович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Иманкулов Идельбай Исламович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Исабеков Шамсат Жаксылыкович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Ищанов Кайрат Кыдрбаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Кайсаров Уалихан Абишевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Какишев Жандарбек Шамильевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Кекилбаев Абиш",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Кист Виктор Эдуардович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Копеев Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Кубайчук Юрий Алексеевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Кужагалиев Аскар Урынбасарович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Машани Абылхан",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Меркель Иоган Давидович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Нигматулин Ерлан Зайруллаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Нургалиев Жакай Жубаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Нурманбетов Нусупжан Нурманбетович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Рахманбердиев Орынбай",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Сагиндыков Елеусин Наурызбаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Сапиев Оналбек",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Сарсенкулов Жансеит Сарсекулович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Симамбаев Тасбай Кабашевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Султанов Куаныш Султанович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Сыздыков Амангельды Хамзинович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Токаев Касым-Жомарт Кемелевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Турегельдинов Жумабек Сулейменович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Туткушев Бексултан Серикпаевич",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Утебаев Мусиралы Смаилович",
+            "Gender": "Male",
+            "Convocation": "3",
+            "Year": "2004"
+        },
+        {
+            "Name": "Абайдильдин Талгатбек Жамшитович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Абдыкаримов Оралбай",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Адырбеков Икрам Адырбекович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Айтаханов Куаныш Айтаханулы",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Акылбай Серик Байсеитулы",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Алтынбаев Мухтар Капашевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Аман Евгений Иосифович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Амиров Иран Амирович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Астаев Ертаргын Какимбекович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ахметов Адиль Курманжанович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ахметов Кабдыгали Николаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ахметов Рашит Сайранович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Аяганов Серик Акпенович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Байгелди Омирбек",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Баймаханов Кожахмет Мадибаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Бактиярулы Мурат",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Башмаков Анатолий Афанасьевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Бижанов Ахан Хусаинович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Бортник Михаил Михайлович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Булекпаев Аманжол Куанышевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Бурлаков Леонид Николаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Валиев Хусаин Хасенович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Галимов Фарит Хабибрахманович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Гусинский Александр Владимирович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Джалмагамбетова Светлана Жакияновна",
+            "Gender": "Female",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Джолдасбаева Нурлыгаим Чалдановна",
+            "Gender": "Female",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Досманбетов Бакберген Сарсенович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Енсегенов Сарсенбай Курманулы",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ергалиев Жабал Ергалиевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ескендиров Самат Сапарбекович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Есим Гарифолла",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Жексембинов Жомарткали Баясилович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Жумабаев Ермек Жианшинович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Жылкышиев Болат Абжапарулы",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Иманкулов Идельбай Исламович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Имашев Берик Мажитович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Исабеков Шамсат Жаксылыкович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Ищанов Кайрат Кыдрбаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Какишев Жандарбек Шамильевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Касымов Гани Есенгельдинович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Кекилбаев Абиш",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Копеев Мухамбет Жуманазарулы",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Кубайчук Юрий Алексеевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Кузеков Асхат Сайпиевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Мами Кайрат Абдразакович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Меркель Иоган Давидович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Мукаев Ербулат Рахметович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Мухамеджанов Бауржан Алимович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Мухамеджанов Толеген Мухамеджанович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Нигматулин Ерлан Зайруллаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Нургалиев Жакай Жубаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Нургалиев Женис Мирасович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Нурманбетов Нусупжан Нурманбетович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Омаров Кайсар Оспанович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Плотников Сергей Викторович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Полторабатько Людмила Григорьевна",
+            "Gender": "Female",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Рахманбердиев Орынбай",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Редкокашин Владимир Николаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Савченко Александр Георгиевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Сагиндыков Елеусин Наурызбаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Сапиев Оналбек",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Сарсенкулов Жансеит Сарсекулович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Симамбаев Тасбай Кабашевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Судьин Александр Сергеевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Сулейменов Нурлан Ильясович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Султанов Куаныш Султанович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Токаев Касым-Жомарт Кемелевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Турегельдинов Жумабек Сулейменович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Турлашов Лаззат Махатович",
+            "Gender": "Female",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Туткушев Бексултан Серикпаевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Утебаев Мусиралы Смаилович",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Цхай Юрий Андреевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Чельпеков Бактыбай Акбердыевич",
+            "Gender": "Male",
+            "Convocation": "4",
+            "Year": "2007"
+        },
+        {
+            "Name": "Абайдильдин Талгатбек Жамшитович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Абдыкаримов Оралбай",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Абыкаев Нуртай Абыкаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Адырбеков Икрам Адырбекович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Айтаханов Куаныш Айтаханулы",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Айтимова Бырганым Сариевна",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Акимов Рашит Каиржанович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Акылбай Серик Байсеитулы",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Алтынбаев Мухтар Капашевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Амиров Иран Амирович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Астаев Ертаргын Какимбекович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ахметов Адиль Курманжанович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ахметов Рашит Сайранович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Баймаханов Кожахмет Мадибаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бактиярулы Мурат",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Башмаков Анатолий Афанасьевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бейсенбаев Аскар Асанович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бекназаров Бектас Абдыханович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бектаев Али Абдикаримович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бектурганов Серик Чингисович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бижанов Ахан Хусаинович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Билялов Серик Султангазинович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бобров Владимир Яковлевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Бортник Михаил Михайлович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Валиев Хусаин Хасенович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Громов Сергей Николаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Джаксыбеков Серик Рыскельдинович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Джалмагамбетова Светлана Жакияновна",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Еламанов Бекмырза Кайыпулы",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Енсегенов Сарсенбай Курманулы",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ергалиев Жабал Ергалиевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ершов Сергей Михайлович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ескендиров Самат Сапарбекович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Есим Гарифолла",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Жолдасбаев Муратбай Сматаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Жумабаев Ермек Жианшинович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Жылкышиев Болат Абжапарулы",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ищанов Кайрат Кыдрбаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Касымов Гани Есенгельдинович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Киинов Ляззат Кетебаевич",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Ким Георгий Владимирович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Кубайчук Юрий Алексеевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Кубенов Манат Шарапиденович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Кузеков Асхат Сайпиевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Кулагин Сергей Витальевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Куставлетов Дулат Рашитович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Мами Кайрат Абдразакович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Мукаев Ербулат Рахметович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Мукашев Тулеубек Тулеуович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Мусаханов Ансар Турсунканович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Мухамеджанов Толеген Мухамеджанович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Нигматулин Ерлан Зайруллаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Нугербеков Серик Нугербекович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Нургалиев Женис Мирасович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Омаров Кайсар Оспанович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Оразалин Нурлан Мыркасымович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Перепечина Ольга Валентиновна",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Плотников Сергей Викторович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Полторабатько Людмила Григорьевна",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Рахманбердиев Орынбай",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Редкокашин Владимир Николаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Савченко Александр Георгиевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Сагиндыков Елеусин Наурызбаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Судьин Александр Сергеевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Сулейменов Нурлан Ильясович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Тагимов Марат Мурзагалиевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Токаев Касым-Жомарт Кемелевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Турегельдинов Жумабек Сулейменович",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Турлашов Лаззат Махатович",
+            "Gender": "Female",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Тусупбеков Рашид Толеутаевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Цхай Юрий Андреевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Чельпеков Бактыбай Акбердыевич",
+            "Gender": "Male",
+            "Convocation": "5",
+            "Year": "2012"
+        },
+        {
+            "Name": "Абайдильдин Талгатбек Жамшитович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Абдикеров Рыскали Калиакбарович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Абдиров Нурлан Мажитович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Абыкаев Нуртай Абыкаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Адильбеков Даурен Зекенович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Адырбеков Икрам Адырбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Айтаханов Куаныш Айтаханулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Айтимова Бырганым Сариевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Айтпаева Сауле Муханбедиановна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Акимов Рашит Каиржанович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Акылбай Серик Байсеитулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Алдашев Суиндик Тасеменович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Алтынбаев Мухтар Капашевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Альназарова Акмарал Шарипбаевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Астаев Ертаргын Какимбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ахметов Рашит Сайранович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ашимбаев Маулен Сагатханулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бактиярулы Мурат",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бейсенбаев Аскар Асанович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бекенов Нурлан Жексембаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бекназаров Бектас Абдыханович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бекназаров Нурлан Кудиярович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бектаев Али Абдикаримович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бектурганов Серик Чингисович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бижанов Ахан Хусаинович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Билялов Серик Султангазинович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бобров Владимир Яковлевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Бортник Михаил Михайлович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Булавкина Ольга Александровна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Волков Владимир Васильевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Громов Сергей Николаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Джаксыбеков Серик Рыскельдинович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Джумагазиев Мухтар Сабирович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Дюсембаев Гумар Ислямович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Дюсембинов Султан Мырзабекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Еламанов Бекмырза Кайыпулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Енсегенов Сарсенбай Курманулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ергалиев Жабал Ергалиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ершов Сергей Михайлович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Жолдасбаев Муратбай Сматаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Жумагулов Бакытжан Турсынович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Жусип Нурторе Байтелесович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ищанов Кайрат Кыдрбаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Калетаев Дархан Аманович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Каниев Бауыржан Нуралиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Капбарова Айгуль Жарылкасыновна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Карплюк Сергей Алексеевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Киинов Ляззат Кетебаевич",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Ким Георгий Владимирович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Кожамжаров Кайрат Пернешович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Кубенов Манат Шарапиденович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Кузеков Асхат Сайпиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Кул-Мухаммед Мухтар Абрарулы",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Куришбаев Ахылбек Кажигулович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Куртаев Алимжан Сейтжанович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Куставлетов Дулат Рашитович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Кылышбаев Нурлан Наурызович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Лукин Андрей Иванович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Лукпанов Сагындык Есенгалиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Макежанов Султанбек Алмасбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мамытбеков Едил Куламкадырович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мукаев Ербулат Рахметович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мукашев Тулеубек Тулеуович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мусабаев Талгат Амангельдиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мусаханов Ансар Турсунканович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Мусин Дуйсенгазы Магауянович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Назарбаева Дарига Нурсултановна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нукетаева Динар Жусупалиевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нуралиев Абдалы Токбергенович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нургалиев Женис Мирасович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нуржигитова Дана Омирбаевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нурсипатов Нуржан Нурланбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Нухулы Алтынбек",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Оразалин Нурлан Мыркасымович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Орынбеков Бекболат Серикбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Перепечина Ольга Валентиновна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Плотников Сергей Викторович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Полторабатько Людмила Григорьевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Редкокашин Владимир Николаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Рысбекова Ляззат Туякбаевна",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Сагиндыков Елеусин Наурызбаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Сатыбалды Дархан Амангельдиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Сафинов Канатбек Бейсенбекович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Сулеймен Ляззат Жанылыскызы",
+            "Gender": "Female",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Султанов Ерик Хамзинович",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Тагимов Марат Мурзагалиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Токаев Касым-Жомарт Кемелевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Турегалиев Нариман Турегалиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Тусупбеков Рашид Толеутаевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Чельпеков Бактыбай Акбердыевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        },
+        {
+            "Name": "Шакиров Аскар Оразалиевич",
+            "Gender": "Male",
+            "Convocation": "6",
+            "Year": "2016"
+        }
+    ]
+}
